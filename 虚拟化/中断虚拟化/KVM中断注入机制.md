@@ -1,3 +1,7 @@
+---
+tags:
+  - 中断
+---
 
 LAPIC（Local APIC，本地高级可编程中断控制器）
 IOAPIC（I/O高级可编程中断控制器）
