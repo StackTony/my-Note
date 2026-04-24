@@ -3,7 +3,10 @@ tags:
   - network
   - 网络
 ---
-网络协议栈： [https://www.cnblogs.com/sammyliu/p/5225623.html](https://www.cnblogs.com/sammyliu/p/5225623.html)
+Linux网络协议栈： 
+[https://www.cnblogs.com/sammyliu/p/5225623.html](https://www.cnblogs.com/sammyliu/p/5225623.html)
+![[Pasted image 20260424172516.png]]
+
 
 结合代码设置kprobe点 
 命令1： 设置中断 echo 1 > /sys/kernel/debug/tracing/events/kvm/vgic_update_irq_pending/enable 
@@ -11,7 +14,3 @@ tags:
 命令3：切入guest前处理中断 echo 1 > /sys/kernel/debug/tracing/events/kvm/vgic_flush_lr_state/enable 
 命令4： 触发event_write相关操作 echo eventfd_write > set_graph_function echo function_graph > current_tracer
 
-
-内核态网络转发virtio-net流程图
-<https://bbs.huaweicloud.com/blogs/292024>
-![[Pasted image 20260424161721.png]]
