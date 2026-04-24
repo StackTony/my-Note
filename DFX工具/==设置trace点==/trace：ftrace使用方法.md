@@ -1,3 +1,9 @@
+---
+tags:
+  - trace
+  - ftrace
+  - DFX
+---
 
 **相关问题：**
 出现现象时：
@@ -61,5 +67,3 @@ echo stacktrace > /sys/kernel/debug/tracing/trace_options
 echo 1 > /sys/kernel/debug/tracing/events/kprobes/enable & echo "trace already enable"
 echo > /sys/kernel/debug/tracing/trace
 ```
-
-

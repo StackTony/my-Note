@@ -1,3 +1,9 @@
+---
+tags:
+  - trace
+  - kprobe
+  - DFX
+---
 
 kprobe使用指南：
 [https://blog.csdn.net/luckyapple1028/article/details/52972315](https://blog.csdn.net/luckyapple1028/article/details/52972315)
