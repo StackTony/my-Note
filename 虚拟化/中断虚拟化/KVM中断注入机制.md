@@ -1,6 +1,6 @@
 ---
 tags:
-  - 中断
+  - vgic
 ---
 
 LAPIC（Local APIC，本地高级可编程中断控制器）

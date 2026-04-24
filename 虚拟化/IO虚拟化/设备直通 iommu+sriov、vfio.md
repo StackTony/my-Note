@@ -1,6 +1,5 @@
 ---
 tags:
-  - IO
   - virtio
   - vfio
   - 直通
