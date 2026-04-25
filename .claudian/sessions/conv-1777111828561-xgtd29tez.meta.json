@@ -1,0 +1,24 @@
+{
+  "id": "conv-1777111828561-xgtd29tez",
+  "providerId": "claude",
+  "title": "帮我总结下这篇文章的技术点",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1777111828564,
+  "updatedAt": 1777112072942,
+  "lastResponseAt": 1777111875239,
+  "sessionId": "3c9e2997-905d-4cb4-9070-3fe0ea917f5a",
+  "providerState": {
+    "providerSessionId": "3c9e2997-905d-4cb4-9070-3fe0ea917f5a"
+  },
+  "currentNote": "虚拟化/IO虚拟化/virtio机制介绍.md",
+  "usage": {
+    "model": "GLM-5",
+    "inputTokens": 4769,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 17424,
+    "contextWindow": 200000,
+    "contextTokens": 22193,
+    "percentage": 11,
+    "contextWindowIsAuthoritative": true
+  }
+}

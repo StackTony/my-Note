@@ -1,0 +1,12 @@
+{
+  "id": "conv-1777102026670-396pvqw96",
+  "providerId": "claude",
+  "title": "/doctor",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1777102026711,
+  "updatedAt": 1777106364672,
+  "lastResponseAt": 1777106346183,
+  "sessionId": null,
+  "providerState": {},
+  "currentNote": "虚拟化/IO虚拟化/virtio机制介绍.md"
+}

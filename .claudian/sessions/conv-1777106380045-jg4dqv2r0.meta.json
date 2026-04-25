@@ -1,0 +1,23 @@
+{
+  "id": "conv-1777106380045-jg4dqv2r0",
+  "providerId": "claude",
+  "title": "hi",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1777106380047,
+  "updatedAt": 1777111812715,
+  "lastResponseAt": 1777109838574,
+  "sessionId": "95fe516c-73be-4abd-b1dd-5f9b93aba68f",
+  "providerState": {
+    "providerSessionId": "95fe516c-73be-4abd-b1dd-5f9b93aba68f"
+  },
+  "usage": {
+    "model": "GLM-5",
+    "inputTokens": 2067,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 17425,
+    "contextWindow": 200000,
+    "contextTokens": 19492,
+    "percentage": 10,
+    "contextWindowIsAuthoritative": true
+  }
+}

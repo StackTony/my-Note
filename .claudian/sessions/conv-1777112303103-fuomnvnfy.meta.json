@@ -1,0 +1,24 @@
+{
+  "id": "conv-1777112303103-fuomnvnfy",
+  "providerId": "claude",
+  "title": "这篇文章核心是什么",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1777112303103,
+  "updatedAt": 1777112659893,
+  "lastResponseAt": 1777112642479,
+  "sessionId": "f2ba565b-ce80-4007-9188-2121e6a4bd3d",
+  "providerState": {
+    "providerSessionId": "f2ba565b-ce80-4007-9188-2121e6a4bd3d"
+  },
+  "currentNote": "AI 人工智能/Claude Code安装.md",
+  "usage": {
+    "model": "GLM-5",
+    "inputTokens": 2123,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 17424,
+    "contextWindow": 200000,
+    "contextTokens": 19547,
+    "percentage": 10,
+    "contextWindowIsAuthoritative": true
+  }
+}
